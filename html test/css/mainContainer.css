@@ -1,0 +1,23 @@
+.asideLeft {
+    border-right: 1px solid grey;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+
+.asideRight {
+    border-left: 1px solid grey;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+
+.childMain {
+    min-height: 900px;
+}
+
+.ms-ChoiceFieldGroup .ms-ChoiceFieldGroup-list {
+    list-style: none;
+}
+
+#personInfo {
+    display: none;
+}

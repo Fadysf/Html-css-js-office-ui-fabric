@@ -1,0 +1,65 @@
+
+body{
+    background-image: url("../images/background.jpg");
+}
+
+
+.motvideos {
+    box-sizing: border-box;
+    top: -10px;
+    }
+    
+    p{
+      color: white;
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 17px;
+    }
+    
+    .arnold {
+      /*top: -30px;*/
+      float: left;
+      position: relative;
+      background-color: black;
+      height: 450px;
+      width: 600px;
+      margin: 25px;
+      padding: 25px;
+      border: 2px solid rgb(231, 180, 11);
+      
+    }
+    
+    .dwayne {
+     /* top: -30px;*/
+      float: left;
+      position: relative;
+      background-color: black;
+      height: 450px;
+      width: 600px;
+      margin: 25px;
+      padding: 25px;
+      border: 2px solid rgb(231, 180, 11);
+    }
+    
+    .joshua {
+      bottom: 30px;
+      float: left;
+      position: relative;
+      background-color: black;
+      height: 450px;
+      width: 600px;
+      margin: 25px;
+      padding: 25px;
+      border: 2px solid rgb(231, 180, 11);
+    }
+    
+    .ingym {
+      bottom: 30px;
+      float: left;
+      position: relative;
+      background-color: black;
+      height: 450px;
+      width: 600px;
+      margin: 25px;
+      padding: 25px;
+      border: 2px solid rgb(231, 180, 11);
+    }

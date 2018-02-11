@@ -1,0 +1,20 @@
+
+body{
+    background: black; 
+}
+.clear-fix{
+    clear: both;
+}
+h3{
+    color: white;
+}
+.row img{
+    width: 100%;
+    height: 40%;
+    margin-bottom: 20px;
+    border: 3px solid gray;
+}
+
+#myFooter{
+    margin-top: 100px;
+}
